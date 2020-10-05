@@ -1,0 +1,4 @@
+name: MCRest
+version: 1.0
+main: eu.gflash.mcrest.MCRest
+api-version: 1.16

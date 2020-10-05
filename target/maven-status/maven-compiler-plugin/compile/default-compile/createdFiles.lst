@@ -1,0 +1,5 @@
+eu\gflash\mcrest\endpointHandlers\PermHandler.class
+eu\gflash\mcrest\endpointHandlers\BiomeHandler.class
+eu\gflash\mcrest\MCRest.class
+eu\gflash\mcrest\Log.class
+eu\gflash\mcrest\Server.class
